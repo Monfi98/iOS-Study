@@ -38,6 +38,9 @@
                                 <state key="normal" title="Button">
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
+                                <connections>
+                                    <action selector="didTabButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="F4V-ZD-3OO"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -49,6 +52,9 @@
                             <constraint firstItem="Bbb-Uo-5BA" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="240" id="pNq-hl-inH"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="mainLabel" destination="Bbb-Uo-5BA" id="Nzc-ow-ltH"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
