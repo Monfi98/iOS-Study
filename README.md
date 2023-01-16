@@ -21,20 +21,20 @@
 - [열거형(Enumeration)](https://www.notion.so/Enumeration-db82441d3f3447e2a5f176116a4f8e7d)
   <br/>
 
+
 ## 앱 만들기
 
-1. MyFirstApp
+- MyFirstApp
+  - Xcode 인테페이스 익숙해지기
+  - auto layout 기초
+  - colorLiteral
+  - @IBOutlet
+  - @IBAction
+  - viewDidLoad()
 
-- Xcode 인테페이스 익숙해지기
-- auto layout 기초
-- colorLiteral
-- @IBOutlet
-- @IBAction
-- viewDidLoad()
+- DiceGame
+  - auto layout 응용
+  - stack view
+  - aspect ratio
+  - assets
 
-2. DiceGame
-
-- auto layout 응용
-- stack view
-- aspect ratio
-- assets
