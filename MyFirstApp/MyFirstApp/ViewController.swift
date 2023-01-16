@@ -13,12 +13,12 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        mainLabel.backgroundColor = #colorLiteral(red: 0.9529411793, green: 0.6862745285, blue: 0.1333333403, alpha: 1)
         
     }
 
     @IBAction func didTabButton(_ sender: Any) {
         mainLabel.text = "안녕하세요"
-        mainLabel.backgroundColor = #colorLiteral(red: 0.1411764771, green: 0.3960784376, blue: 0.5647059083, alpha: 1)
         mainLabel.textColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
     }
     

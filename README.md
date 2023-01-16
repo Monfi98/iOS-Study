@@ -29,3 +29,4 @@
   - colorLiteral
   - @IBOutlet
   - @IBAction
+  - viewDidLoad()
