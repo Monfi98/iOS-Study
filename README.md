@@ -19,9 +19,12 @@
 - [컬렉션(Collection)](https://www.notion.so/Collection-4e80ff659f314a5888e61c80fab80bdd)
 
 - [열거형(Enumeration)](https://www.notion.so/Enumeration-db82441d3f3447e2a5f176116a4f8e7d)
-<br/>
+  <br/>
 
 ## 앱 만들기
+
 - MyFirstApp
   - Xcode 인터페이스
   - 오토 레이아웃
+  - 버튼 이벤트 리스너
+  - colorLiteral
