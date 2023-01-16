@@ -21,10 +21,10 @@
 - [열거형(Enumeration)](https://www.notion.so/Enumeration-db82441d3f3447e2a5f176116a4f8e7d)
   <br/>
 
-
 ## 앱 만들기
 
 - MyFirstApp
+
   - Xcode 인테페이스 익숙해지기
   - auto layout 기초
   - colorLiteral
@@ -33,8 +33,11 @@
   - viewDidLoad()
 
 - DiceGame
-  - auto layout 응용
+
+  - auto layout
   - stack view
   - aspect ratio
   - assets
 
+- RPSGame
+  - 한 개의 action event에 다중 버튼 연결
