@@ -104,7 +104,7 @@
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
-                                            <action selector="didTabRPSButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2x7-Zl-B3u"/>
+                                            <action selector="didTapRPSButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hIB-HI-OAh"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sJO-HP-BbY">
@@ -116,7 +116,7 @@
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
-                                            <action selector="didTabRPSButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="evj-Lf-tP1"/>
+                                            <action selector="didTapRPSButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ulN-wM-zNw"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rzK-c5-l2v">
@@ -128,7 +128,7 @@
                                             <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         </state>
                                         <connections>
-                                            <action selector="didTabRPSButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jHw-7C-I7o"/>
+                                            <action selector="didTapRPSButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vE8-MB-TBq"/>
                                         </connections>
                                     </button>
                                 </subviews>

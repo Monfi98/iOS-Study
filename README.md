@@ -41,3 +41,4 @@
 
 - RPSGame
   - 한 개의 action event에 다중 버튼 연결
+  - enum과 원시값
