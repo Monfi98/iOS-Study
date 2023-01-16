@@ -40,5 +40,10 @@
   - assets
 
 - RPSGame
+
   - 한 개의 action event에 다중 버튼 연결
   - enum과 원시값
+
+- UpDownGame
+  - auto layout 복습
+  - 유연한 코드 짜기 연습
