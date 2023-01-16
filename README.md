@@ -23,10 +23,18 @@
 
 ## 앱 만들기
 
-- MyFirstApp
-  - Xcode 인터페이스
-  - 오토 레이아웃
-  - colorLiteral
-  - @IBOutlet
-  - @IBAction
-  - viewDidLoad()
+1. MyFirstApp
+
+- Xcode 인테페이스 익숙해지기
+- auto layout 기초
+- colorLiteral
+- @IBOutlet
+- @IBAction
+- viewDidLoad()
+
+2. DiceGame
+
+- auto layout 응용
+- stack view
+- aspect ratio
+- assets
