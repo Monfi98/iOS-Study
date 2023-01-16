@@ -26,5 +26,6 @@
 - MyFirstApp
   - Xcode 인터페이스
   - 오토 레이아웃
-  - 버튼 이벤트 리스너
   - colorLiteral
+  - @IBOutlet
+  - @IBAction
