@@ -16,8 +16,11 @@
 
 - [클래스(Class)와 구조체(Struct)](https://halved-sale-84c.notion.site/Class-Struct-43b53f5d1f1444ac93959f9ba5e48af2)
 
+- [클래스의 상속(Inheritance)과 초기화(Initialization)](https://halved-sale-84c.notion.site/Inheritance-Initialization-ca9a7dc1eb8440199c6b4fdf7d7f8408)
+
 - [접근제어(Access Control)](https://halved-sale-84c.notion.site/Access-Control-4c1e1aa18bae4e5eba8f5388080772dd)
 
+- [타입 캐스팅(Type Casting)](https://halved-sale-84c.notion.site/Type-Casting-edec954c23a149f486f4b3e616cd705a)
   <br/>
 
 ## 앱 만들기
