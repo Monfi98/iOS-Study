@@ -1,51 +1,68 @@
-## Swift 문법
+# iOS Study
+본 레포지토리는 Swift강의를 들으며, 혹은 인터넷을 찾아보면서 기록한 공간입니다!   
+오타를 발견하거나 틀린내용이 있다면 메일 주시면 반영토록 하겠습니다. <seushin24@pos.idserve.net>
+**마지막 업데이트 일자:** <code>2024.03.12</code>
 
-- [연산자](https://halved-sale-84c.notion.site/6650ea53fb9649f689ed9032ab665db8)
+### [Common](./Common)
+- **프레임워크 vs 라이브러리**
+- **객체 지향 프로그램**
+- **코데힙스**
+- **동시성 프로그래밍의 문제점**
 
-- [반복문, 스위치문, guard문](https://halved-sale-84c.notion.site/guard-350603a287444db5b635f060c502e5fa)
+### [iOS](./iOS)
+- **단축키**
+- **import Foundation?**
+- **상속관계에서 생성자 위임 규칙**
+- **프로토콜 지향 프로그래밍**
+- **Method Dispatch**
+- **ARC: Automatic Reference Counting**
+- **강한 참조 사이클**
+- **생명주기(Life Cycle)**
 
-- [튜플(Tuple)](https://halved-sale-84c.notion.site/Tuple-644383a862244b6fbee3961ea83fd3fd)
+### 문법
 
-- [함수(Function)](https://halved-sale-84c.notion.site/Function-3d73c512c86844c9842bbcbcaf3dc1ba)
+- [연산자(Operator)](./Operator)
 
-- [옵셔널(Optional)](https://halved-sale-84c.notion.site/Optional-b888754d5f2f48e69ba4ed0c0369dabf)
+- [반복문, 스위치문, guard문](./Loop_Switch_Guard)
 
-- [컬렉션(Collection)](https://halved-sale-84c.notion.site/Collection-4e80ff659f314a5888e61c80fab80bdd)
+- [튜플(Tuple)](./Tuple)
 
-- [열거형(Enumeration)](https://halved-sale-84c.notion.site/Enumeration-db82441d3f3447e2a5f176116a4f8e7d)
+- [함수(Function)](./Function)
 
-- [클래스(Class)와 구조체(Struct)](https://halved-sale-84c.notion.site/Class-Struct-43b53f5d1f1444ac93959f9ba5e48af2)
+- [옵셔널(Optional)](./Optional)
 
-- [클래스의 상속(Inheritance)과 초기화(Initialization)](https://halved-sale-84c.notion.site/Inheritance-Initialization-ca9a7dc1eb8440199c6b4fdf7d7f8408)
+- [컬렉션(Collection)](./Collection)
 
-- [접근제어(Access Control)](https://halved-sale-84c.notion.site/Access-Control-4c1e1aa18bae4e5eba8f5388080772dd)
+- [열거형(Enumeration)](./Enumeration)
 
-- [타입 캐스팅(Type Casting)](https://halved-sale-84c.notion.site/Type-Casting-edec954c23a149f486f4b3e616cd705a)
-  <br/>
+- [클래스(Class)와 구조체(Struct)](./Class&Struct)
 
-## 앱 만들기
+- [클래스의 상속(Inheritance)과 초기화(Initialization)](./Inheritance&Initialization)
 
-- MyFirstApp
+- [접근제어(Access Control 1)](./AccessControl1)
 
-  - Xcode 인테페이스 익숙해지기
-  - auto layout 기초
-  - colorLiteral
-  - @IBOutlet
-  - @IBAction
-  - viewDidLoad()
+- [타입 캐스팅(Type Casting)과 확장(Initialization)](./TypeCasting&Extension)
 
-- DiceGame
+- [프로토콜(Protocol)](./Protocol)
 
-  - auto layout
-  - stack view
-  - aspect ratio
-  - assets
+- [중첩 타입(Nested Types)](./NestedTypes)
 
-- RPSGame
+- [클로저(Closure)](./Closure)
 
-  - 한 개의 action event에 다중 버튼 연결
-  - enum과 원시값
+- [고차함수(Higer-order Function)](./Higer-orderFunction)
 
-- UpDownGame
-  - auto layout 복습
-  - 유연한 코드 짜기 연습
+- [에러 처리(Error Handling)](./ErrorHandling)
+
+- [Defer문](./Defer)
+
+- [제네릭(Generics)](./Generics)
+
+- [Result 타입](./Result)
+
+- [접근 제어2(Access Control 2)](./AccessControl2)
+
+- [문자열(Strings)과 문자(Characters)](./Strings&Characters)
+
+- [고급 연산자(Advanced Operator)](./AdvancedOperator)
+
+- [심화 내용(Advanced Swift)](./AdvancedSwift)
