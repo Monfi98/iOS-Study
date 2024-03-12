@@ -1,8 +1,6 @@
-# 제어문
+# 반복문, 스위치문, guard문
 
 ## 반복문
-
----
 
 - `for` 문
 
@@ -21,6 +19,7 @@ for number in stride(from: 1, to: 15, by: 2) {
 ```
 
 `stride`는 *‘성큼 성큼 걷다’* 라는 의미를 가지고 있다
+<br>
 
 - `while` 문
 
@@ -31,6 +30,7 @@ while num <= 50 {
 	num += 1 // 0 ~ 50
 }
 ```
+<br>
 
 - `repeat-while` 문
 
@@ -43,6 +43,7 @@ repeat {
 ```
 
 `while` 문과 다르게 일단 한번 실행하고 나서, 조건을 판단해서 실행함
+<br>
 
 - 레이블이 매겨진 문장과 `continue`, `break`의 사용
 
@@ -60,10 +61,10 @@ OUTER: for i in 0...3 {
 ```
 
 labeled를 이용하면 인접 이외의 범위도 제어가 가능하다
+<br>
 
 ## 스위치문
 
----
 
 ```swift
 switch a {
@@ -77,15 +78,11 @@ default:
 	break
 }
 ```
+<br>
 
 ## guard문
 
----
-
-<aside>
-💡 `if`문은 여러개의 조건이 있을때 코드의 가독성이 문제되는데, `guard`문으로 사용함으로써 가독성이 안좋은 단점을 극복 할 수 있다.
-
-</aside>
+> 💡 `if`문은 여러개의 조건이 있을때 코드의 가독성이 문제되는데, `guard`문으로 사용함으로써 가독성이 안좋은 단점을 극복 할 수 있다.
 
 ```swift
 func checkNumbersOf2(password: String) -> Bool {
