@@ -3,13 +3,13 @@
 오타를 발견하거나 틀린내용이 있다면 메일 주시면 반영토록 하겠습니다. <seushin24@pos.idserve.net>
 **마지막 업데이트 일자:** <code>2024.03.12</code>
 
-## Common[Link](./Common)
+## Common([Link](./Common))
 - **프레임워크 vs 라이브러리**
 - **객체 지향 프로그램**
 - **코데힙스**
 - **동시성 프로그래밍의 문제점**
 
-## iOS[Link](./iOS)
+## iOS([Link](./iOS))
 - **단축키**
 - **import Foundation?**
 - **상속관계에서 생성자 위임 규칙**
@@ -21,48 +21,48 @@
 
 ## 문법
 
-1. 연산자(Operator)[Link](./Operator)
+1. 연산자([Operator](./Operator))
 
-2. 반복문, 스위치문, guard문[Link](./Loop_Switch_Guard)
+2. 반복문, 스위치문, guard문([loop, switch, guard](./Loop_Switch_Guard))
 
-3. 튜플(Tuple)[Link](./Tuple)
+3. 튜플([Tuple](./Tuple))
 
-4. 함수(Function)[Link](./Function)
+4. 함수([Function](./Function))
 
-5. 옵셔널(Optional)[Link](./Optional)
+5. 옵셔널([Optional](./Optional))
 
-6. 컬렉션(Collection)[Link](./Collection)
+6. 컬렉션([Collection](./Collection))
 
-7. 열거형(Enumeration)[Link](./Enumeration)
+7. 열거형(([Enumeration](./Enumeration))
 
-8. 클래스(Class)와 구조체(Struct)[Link](./Class&Struct)
+8. 클래스와 구조체([Class and Struct](./Class&Struct))
 
-9. 클래스의 상속(Inheritance)과 초기화(Initialization)[Link](./Inheritance&Initialization)
+9. 클래스의 상속과 초기화([Inheritance and Initialization](./Inheritance&Initialization))
 
-10. 접근제어(Access Control 1)[Link](./AccessControl1)
+10. 접근제어([Access Control 1](./AccessControl1))
 
-11. 타입 캐스팅(Type Casting)과 확장(Initialization)[Link](./TypeCasting&Extension)
+11. 타입 캐스팅과 확장([Type Casting and Extension](./TypeCasting&Extension))
 
-12. 프로토콜(Protocol)[Link](./Protocol)
+12. 프로토콜([Protocol](./Protocol))
 
-13. 중첩 타입(Nested Types)[Link](./NestedTypes)
+13. 중첩 타입([Nested Types](./NestedTypes))
 
-14. 클로저(Closure)[Link](./Closure)
+14. 클로저([Closure](./Closure))
 
-15. 고차함수(Higer-order Function)[Link](./Higer-orderFunction)
+15. 고차함수([Higer-order Function](./Higer-orderFunction))
 
-16. 에러 처리(Error Handling)[Link](./ErrorHandling)
+16. 에러 처리([Error Handling](./ErrorHandling))
 
-17. Defer문[Link](./Defer)
+17. Defer문([Defer](./Defer))
 
-18. 제네릭(Generics)[Link](./Generics)
+18. 제네릭([Generics](./Generics))
 
-19. Result 타입[Link](./Result)
+19. Result 타입([Result Type](./ResultType))
 
-20. 접근 제어2(Access Control 2)[Link](./AccessControl2)
+20. 접근 제어2([Access Control 2](./AccessControl2))
 
-21. 문자열(Strings)과 문자(Characters)[Link](./Strings&Characters)
+21. 문자열과 문자([Strings and Characters](./Strings&Characters))
 
-22. 고급 연산자(Advanced Operator)[Link](./AdvancedOperator)
+22. 고급 연산자([Advanced Operator](./AdvancedOperator))
 
-23. 심화 내용(Advanced Swift)[Link](./AdvancedSwift)
+23. 심화 내용([Advanced Swift](./AdvancedSwift))
