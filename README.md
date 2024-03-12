@@ -1,6 +1,6 @@
 # iOS Study
 본 레포지토리는 Swift강의를 들으며, 혹은 인터넷을 찾아보면서 기록한 공간입니다!   
-오타를 발견하거나 틀린내용이 있다면 메일 주시면 반영토록 하겠습니다. <seushin24@pos.idserve.net>
+오타를 발견하거나 틀린내용이 있다면 메일(<seushin24@pos.idserve.net>) 주시면 반영토록 하겠습니다.   
 **마지막 업데이트 일자:** <code>2024.03.12</code>
 
 ## Common([Link](./Common))
