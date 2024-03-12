@@ -95,9 +95,9 @@ for (key, _) in dict {
 
 > 참고) **KeyValuePairs** <br>키가 있고 순서가 있는 컬렉션이다.
     
-    ```swift
-    let pairs: KeyValuePairs = ["A": "Appple", "B": "Banana", "C": "Candy"]
-    ```
+```swift
+let pairs: KeyValuePairs = ["A": "Appple", "B": "Banana", "C": "Candy"]
+```
     
 <br>
 
