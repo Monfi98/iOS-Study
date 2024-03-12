@@ -19,50 +19,50 @@
 - **강한 참조 사이클**
 - **생명주기(Life Cycle)**
 
-## 문법
+## Swift Fun
 
-1. 연산자([Operator](./Operator))
+1. 연산자([Operator](./SwiftFun/1.Operator))
 
-2. 반복문, 스위치문, guard문([loop, switch, guard](./Loop_Switch_Guard))
+2. 반복문, 스위치문, guard문([loop, switch, guard](./SwiftFun/2.Loop_Switch_Guard))
 
-3. 튜플([Tuple](./Tuple))
+3. 튜플([Tuple](./SwiftFun/3.Tuple))
 
-4. 함수([Function](./Function))
+4. 함수([Function](./SwiftFun/4.Function))
 
-5. 옵셔널([Optional](./Optional))
+5. 옵셔널([Optional](./SwiftFun/5.Optional))
 
-6. 컬렉션([Collection](./Collection))
+6. 컬렉션([Collection](./SwiftFun/6.Collection))
 
-7. 열거형(([Enumeration](./Enumeration))
+7. 열거형(([Enumeration](./SwiftFun/7.Enumeration))
 
-8. 클래스와 구조체([Class and Struct](./Class&Struct))
+8. 클래스와 구조체([Class and Struct](./SwiftFun/8.Class&Struct))
 
-9. 클래스의 상속과 초기화([Inheritance and Initialization](./Inheritance&Initialization))
+9. 클래스의 상속과 초기화([Inheritance and Initialization](./SwiftFun/9.Inheritance&Initialization))
 
-10. 접근제어([Access Control 1](./AccessControl1))
+10. 접근제어([Access Control 1](./SwiftFun/10.AccessControl1))
 
-11. 타입 캐스팅과 확장([Type Casting and Extension](./TypeCasting&Extension))
+11. 타입 캐스팅과 확장([Type Casting and Extension](./SwiftFun/11.TypeCasting&Extension))
 
-12. 프로토콜([Protocol](./Protocol))
+12. 프로토콜([Protocol](./SwiftFun/12.Protocol))
 
-13. 중첩 타입([Nested Types](./NestedTypes))
+13. 중첩 타입([Nested Types](./SwiftFun/13.NestedTypes))
 
-14. 클로저([Closure](./Closure))
+14. 클로저([Closure](./SwiftFun/14.Closure))
 
-15. 고차함수([Higer-order Function](./Higer-orderFunction))
+15. 고차함수([Higer-order Function](./SwiftFun/15.Higer-orderFunction))
 
-16. 에러 처리([Error Handling](./ErrorHandling))
+16. 에러 처리([Error Handling](./SwiftFun/16.ErrorHandling))
 
-17. Defer문([Defer](./Defer))
+17. Defer문([Defer](./SwiftFun/17.Defer))
 
-18. 제네릭([Generics](./Generics))
+18. 제네릭([Generics](./SwiftFun/18.Generics))
 
-19. Result 타입([Result Type](./ResultType))
+19. Result 타입([Result Type](./SwiftFun/19.ResultType))
 
-20. 접근 제어2([Access Control 2](./AccessControl2))
+20. 접근 제어2([Access Control 2](./SwiftFun/20.AccessControl2))
 
-21. 문자열과 문자([Strings and Characters](./Strings&Characters))
+21. 문자열과 문자([Strings and Characters](./SwiftFun/21.Strings&Characters))
 
-22. 고급 연산자([Advanced Operator](./AdvancedOperator))
+22. 고급 연산자([Advanced Operator](./SwiftFun/22.AdvancedOperator))
 
-23. 심화 내용([Advanced Swift](./AdvancedSwift))
+23. 심화 내용([Advanced Swift](./SwiftFun/23.AdvancedSwift))
