@@ -33,7 +33,7 @@
 
 6. 컬렉션([Collection](./SwiftFun/6.Collection))
 
-7. 열거형(([Enumeration](./SwiftFun/7.Enumeration))
+7. 열거형([Enumeration](./SwiftFun/7.Enumeration))
 
 8. 클래스와 구조체([Class and Struct](./SwiftFun/8.Class&Struct))
 
