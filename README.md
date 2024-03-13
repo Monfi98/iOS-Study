@@ -64,5 +64,3 @@
 21. 문자열과 문자([Strings and Characters](./SwiftFun/21.Strings&Characters))
 
 22. 고급 연산자([Advanced Operator](./SwiftFun/22.AdvancedOperator))
-
-23. 심화 내용([Advanced Swift](./SwiftFun/23.AdvancedSwift))
